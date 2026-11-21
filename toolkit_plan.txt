@@ -1,0 +1,30 @@
+Personal Mini-Toolkit Plan
+
+1. Number Guessing Game
+   What it does: The program chooses a random number from 1 to 20 and lets the
+   user guess until the guess is correct.
+   Concepts: while loop, for loop, conditionals, random module, f-strings.
+
+2. To-Do List
+   What it does: The user can view, add, and remove tasks during the session.
+   Concepts: list, while loop, conditionals, f-strings.
+
+3. Simple Calculator
+   What it does: The user enters two numbers and an operation to get a result.
+   Concepts: loop, conditionals, try/except, f-strings.
+
+4. Name Formatter
+   What it does: The program formats a name entered by the user as title case,
+   uppercase, or lowercase.
+   Concepts: conditionals, while loop, string methods, f-strings.
+
+Exact Menu Text:
+========================================
+          PERSONAL MINI-TOOLKIT
+========================================
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Name Formatter
+5. Quit
+
